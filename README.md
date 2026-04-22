@@ -120,4 +120,6 @@ o	Inconclusive
 
 ## PowerBI Dashboard Image
 
+- <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/main/PowerBI%20Image.png">Dashboard</a>
+
 
