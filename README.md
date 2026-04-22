@@ -2,6 +2,9 @@
 ## Project Objective
 To analyze healthcare data and gain insights into patient demographics, medical conditions, hospital admissions, and treatment outcomes.
 
+## Dataset Link
+- <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/98b29a4018525d11eb8aa37a5c879b297c7a4640/healthcare_dataset.csv">Dataset</a>
+
 ## Questions (KPIs)
 Q.  How many total patients, doctors, and hospitals are represented in the dataset?
 
