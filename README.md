@@ -54,51 +54,64 @@ o	Medical Conditions: 6
 
 o	Insurance Providers: 5
 
-   •	Admission Type Analysis
+   ##	Admission Type Analysis
 o	Elective, Emergency, and Urgent patient distribution
 
-   •	Age Group Insights
+   ##	Age Group Insights
 o	Patient segmentation across age groups (0–20, 21–40, 41–60, 61–90)
 
-   •	Blood Group Distribution
+   ##	Blood Group Distribution
 o	Comparative analysis across all major blood groups
 
-   •	Medical Condition Analysis
- o	Includes:
+   ##	Medical Condition Analysis Includes:
 
-  Arthritis
+o Arthritis
 
-  Asthma
+o Asthma
 
-  Cancer
+o Cancer
 
-  Diabetes
+o Diabetes
 
-  Hypertension
+o Hypertension
 
-  Obesity
+o Obesity
 
-   •	Insurance Provider Breakdown
+  ##	Insurance Provider Breakdown
 o	Aetna
+
 o	Blue Cross
+
 o	Cigna
+
 o	Medicare
+
 o	UnitedHealthcare
-   •	Test Result Analysis
+   
+   ##	Test Result Analysis
+
 o	Normal
+
 o	Abnormal
+
 o	Inconclusive
-________________________________________
-🎛️ Filters Available
-Users can interactively filter the dashboard by:
+
+  ## Filters Available
+
 •	Medical Condition
+
 •	Gender
+
 •	Admission Type
+
 •	Medication
-________________________________________
-🛠️ Tools & Technologies
+
+  ## Tools & Technologies
+
 •	Power BI
+
 •	Excel
+
 •	SQL
 
 
