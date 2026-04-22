@@ -1,4 +1,4 @@
-# Healthcare-Data-Analysis (Interactive Dashboard creation using Excel & PowerBI)
+# Healthcare-Data-Analysis (Interactive Dashboard creation using Excel, PowerBI & Tableau)
 ## Project Objective
 To analyze healthcare data and gain insights into patient demographics, medical conditions, hospital admissions, and treatment outcomes.
 
@@ -114,6 +114,8 @@ o	Inconclusive
 
 •	SQL
 
+•	Tableau
+
 ## Excel Dashboard Image
 
 - <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/main/Excel%20Image.png">Dashboard</a>
@@ -121,5 +123,9 @@ o	Inconclusive
 ## PowerBI Dashboard Image
 
 - <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/main/PowerBI%20Image.png">Dashboard</a>
+
+## Tableau Dashboard Image
+
+- <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/main/Tableau%20Image.png">Dashboard</a>
 
 
