@@ -18,3 +18,21 @@ Q.  Which age group has the highest patient count?
 Q.  What is the gender-wise distribution of patients?
 
 Q. Which insurance provider covers the most patients?
+
+##  Project Process
+•	Collected healthcare dataset (patients, conditions, billing, insurance)
+
+•	Cleaned and prepared data for analysis
+
+•	Transformed data into meaningful categories (age groups, admission types)
+
+•	Built data model and relationships
+
+•	Designed interactive dashboard layout
+
+•	Created visualizations for key insights
+
+•	Added filters for dynamic analysis
+
+•	Created Interactive dashboard
+
