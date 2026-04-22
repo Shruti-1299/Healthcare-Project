@@ -118,4 +118,6 @@ o	Inconclusive
 
 - <a href="https://github.com/Shruti-1299/Healthcare-Project/blob/main/Excel%20Image.png">Dashboard</a>
 
+## PowerBI Dashboard Image
+
 
